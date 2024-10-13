@@ -18,6 +18,7 @@ public class lesson3zad2 {
                 System.out.println(animal);
             }
 
+
             System.out.println("Расписание кормлений:");
             System.out.println("В 9:00 - " + animals.get(1));
             System.out.println("В 10:00 - " + animals.get(4));
